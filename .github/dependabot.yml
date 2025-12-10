@@ -6,8 +6,8 @@ updates:
       interval: "weekly"
       day: "monday"
       time: "09:00"
-    # ignore:
-    #   - dependency-name: "react"
+    ignore:
+    - dependency-name: "globals"
     open-pull-requests-limit: 5
     labels:
       - "dependencies"
