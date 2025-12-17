@@ -86,6 +86,8 @@ collaborators:
     permission: admin
   - username: frvnzz
     permission: admin
+  - username: ViktorHofer
+    permission: admin
 
   # Note: `permission` is only valid on organization-owned repositories.
   # The permission to grant the collaborator. Can be one of:
