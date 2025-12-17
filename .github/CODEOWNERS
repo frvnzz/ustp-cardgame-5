@@ -3,4 +3,4 @@
 # Each line is a file pattern followed by one or more owners
 
 # GitHub configuration and workflows
-/.github/   @ecemchen @frvnzz
+/.github/settings.yml @ecemchen @frvnzz
